@@ -1,0 +1,8 @@
+
+---
+
+### **4. Initialize Git**
+```bash
+git init
+git add .
+git commit -m "Initial commit: Dynamic ring buffer for Yocto"
